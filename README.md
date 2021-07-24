@@ -1,0 +1,2 @@
+# syntacticSugar
+Expression Bodied Methods
